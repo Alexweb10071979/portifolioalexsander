@@ -638,7 +638,7 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  background: url("https://pixnio.com/free-images/2019/01/10/2019-01-10-09-06-01.jpg") top center no-repeat;
+  background: url("fotos/hero.png") top center no-repeat;
   background-size: cover;
   width: 100%;
   min-height: 90vh;
